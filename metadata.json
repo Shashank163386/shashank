@@ -1,0 +1,8 @@
+{
+  "name": "NIRMANA: Karnataka Industry Hub Chatbot",
+  "description": "An intelligent chatbot that provides up-to-date information about the Karnataka industry hub using Gemini. It features search-grounded answers and AI-powered image generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
